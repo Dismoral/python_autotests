@@ -1,2 +1,1 @@
-# python_autotests
-Пример автотестов на pytest + requests
+NOTE: In the tests, you need to put your TOKEN in the TOKEN line
